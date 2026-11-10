@@ -1,0 +1,6 @@
+# Recorded feed data. Rounds are the valuable part; ticks are large and
+# regenerable, so keep them out of version control.
+ticks-*.jsonl
+rounds.jsonl
+events.jsonl
+!sample-*.jsonl
